@@ -51,3 +51,6 @@
 - [x] Java JDBC API
 - [x] Log4j
 - [x] Multi-thread
+
+- 查詢Cashi全部資料/用Id查詢Mgni/用Id查詢Cashi/Mgni動態查詢/Mgni新增/Mgni更新/Mgni刪除
+- 新增、修改、刪除時，Mgni跟Cashi會連動
