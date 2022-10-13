@@ -55,7 +55,7 @@
 * 查詢Cashi全部資料/用Id查詢Mgni/用Id查詢Cashi/Mgni動態查詢/Mgni新增/Mgni更新/Mgni刪除
 * 新增、修改、刪除時，Mgni跟Cashi會連動
 
-'''java=
+```java=
 < Ture >  
       
 	{"requestType":"1","request":{}}
@@ -82,4 +82,4 @@
         {"requestType":"5","request":{"cmNo":"9","kacType":"1","bankNo":"999","ccy":"TWD","pvType":"3","bicaccNo":"0000000","iType":"1","pReason":"money","clearingAccountList":[{"accNo":"1","amt":10},{"accNo":"2","amt":20}],"ctName":"Joey","ctTel":"1234578"}}
 
         {"requestType":"6","request":{"id":"MGI20221004222746688","cmNo":"3","kacType":"1","bankNo":"999","ccy":"HKD","pvType":"3","bicaccNo":"0000000","iType":"1","pReason":"deposit some money in the bank","clearingAccountList":[{"accNo":"1","amt":10000},{"accNo":"2","amt":200}],"ctName":"Joey","ctTel":"12345678"}}
-'''
+```
