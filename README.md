@@ -52,7 +52,7 @@
 - [x] Log4j
 - [x] Multi-thread
 
-* 查詢Cashi全部資料/用Id查詢Mgni/用Id查詢Cashi/Mgni動態查詢/Mgni新增/Mgni更新/Mgni刪除
+* 1:查詢Cashi全部資料/ 2:用Id查詢Mgni/ 3:用Id查詢Cashi/ 4:Mgni動態查詢/ 5:Mgni新增/ 6:Mgni更新/ 7:Mgni刪除
 * 新增、修改、刪除時，Mgni跟Cashi會連動
 
 ```java=
